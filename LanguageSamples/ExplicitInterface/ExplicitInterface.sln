@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterface1", "ExplicitInterface1\ExplicitInterface1.csproj", "{C7DC19A0-DC14-4000-A0A9-4DE436DAAD4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterface2", "ExplicitInterface2\ExplicitInterface2.csproj", "{4C101A7F-C237-4247-BC54-FACB4153CB87}"

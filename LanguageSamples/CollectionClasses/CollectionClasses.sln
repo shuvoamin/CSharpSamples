@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionClasses1", "CollectionClasses1\CollectionClasses1.csproj", "{0C137417-8C81-420F-8636-7CD990BFEA38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionClasses2", "CollectionClasses2\CollectionClasses2.csproj", "{98ECCB4C-63F4-427B-A2E8-E0D0CB80A97E}"

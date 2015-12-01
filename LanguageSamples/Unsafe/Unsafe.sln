@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCopy", "FastCopy\FastCopy.csproj", "{69927890-5FC9-4CF4-B7F6-BCC10D1C5B47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintVersion", "PrintVersion\PrintVersion.csproj", "{31C783DA-3E64-4EF1-A603-B11CBF4144BF}"

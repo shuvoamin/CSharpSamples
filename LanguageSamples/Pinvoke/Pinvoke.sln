@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marshal", "Marshal\Marshal.csproj", "{6F153F88-658F-4763-9F9F-6EE076AA3049}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinvoke", "Pinvoke\Pinvoke.csproj", "{3EC1E2D3-8F8A-499E-9A30-2012AE76D6EC}"
